@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yves</h1>
-<h3 align="center">A proactive and detail-oriented frontend developer from Melbourne</h3>
-<br>
+<h1 align="left">Hi 👋, I'm Yves</h1>
+<h3 align="left">A proactive and detail-oriented frontend developer from Melbourne</h3>
+
 <img align="right" alt="Coding" width="35%" src="https://media.tenor.com/8ZGBB-CvPV0AAAAC/anime-delete.gif">
 
 
