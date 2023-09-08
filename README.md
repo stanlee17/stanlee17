@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://yveskoesumo.com/](https://yveskoesumo.com/)
 
+- 💬 Ask me about **React and SCSS**
+
 - 📫 How to reach me **stanz.ferigh@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
