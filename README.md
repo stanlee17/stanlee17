@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yves</h1>
 <h3 align="center">A proactive and detail-oriented frontend developer from Melbourne</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/AjA6.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanlee17&label=Profile%20views&color=0e75b6&style=flat" alt="stanlee17" /> </p>
 
