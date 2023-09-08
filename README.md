@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yves</h1>
 <h3 align="left">A proactive and detail-oriented frontend developer from Melbourne</h3>
 
-<img align="right" alt="Coding" width="35%" src="https://media.tenor.com/8ZGBB-CvPV0AAAAC/anime-delete.gif">
+<img align="right" alt="Coding" width="30%" src="https://media.tenor.com/8ZGBB-CvPV0AAAAC/anime-delete.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanlee17&label=Profile%20views&color=0e75b6&style=flat" alt="stanlee17" /> </p>
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Redux Toolkit and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://yveskoesumo.com/](https://yveskoesumo.com/)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **stanz.ferigh@gmail.com**
 
